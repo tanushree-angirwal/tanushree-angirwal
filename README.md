@@ -32,7 +32,7 @@
 | Skill | Details |
 | :--- | :--- |
 | **Data Engineering** | Expert in **Data Cleaning, KPI Calculation, and ETL Workflows**. Proficient in `IMPORTRANGE` and Automation. |
-| **Documentation** | specialized in translating business needs into technical specs: **BRD (Business Requirement Docs), SRS, and User Stories**. |
+| **Documentation** | Specialized in translating business needs into technical specs: **BRD (Business Requirement Docs), SRS, and User Stories**. |
 | **Visualization** | "Dashboard First" approach—designing intuitive, story-driven dashboards in **Power BI and Google Sheets**. |
 
 ---
