@@ -1,7 +1,7 @@
 # 💫 About Me:
-"I am a Final Year **B.B.A (Computer Applications)** student at **Abeda Inamdar Senior College** (Affiliated to **Savitribai Phule Pune University**) and an aspiring **Business Analyst**. Rather than viewing data as static reports, I approach it as a **storytelling and decision-support medium**. My methodology—**Data-Driven Decision Making**—focuses on transforming raw, unstructured inputs into **clear, actionable business strategies** that support informed decisions.
+"I am a Final Year **B.B.A (Computer Applications)** student at **Abeda Inamdar Senior College** (Affiliated to **Savitribai Phule Pune University**) and an aspiring **Business Analyst**. I don’t treat data as static reports — I treat it as a **decision-making asset**. To me, data is storytelling with intent, where every metric answers a business question and every dashboard drives action.
 
-My expertise lies in the journey from **Data Collection to Strategic Insight**. Whether architecting a **32-tab data warehouse** on Google Sheets, automating **ETL workflows for HR systems**, or designing **retention and engagement dashboards** for fitness clients, my objective remains consistent: **solving real-world business problems through accuracy, automation, and structured analytics**. I am deeply focused on building dashboards, streamlining workflows, and leveraging analytics for **scalable and impact-driven outcomes**."
+My strength lies in bridging the gap between **raw data and strategic insight**. From architecting a **32-tab analytical data warehouse** in Google Sheets, to automating **ETL-style workflows for HR systems**, to designing **retention and churn dashboards** for fitness clients — my focus is consistent: **build reliable systems, eliminate guesswork, and enable smarter decisions through automation and structure**. I am deeply interested in analytics that create real impact, especially where efficiency, retention, and scalability matter."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanushree_angirwal)
@@ -29,25 +29,25 @@ My expertise lies in the journey from **Data Collection to Strategic Insight**. 
 
 | Project | Tech Stack | Key Features & Architecture |
 | :--- | :--- | :--- |
-| **🏋️‍♀️ FitSpirit Dashboard**<br>*(Client Lifecycle Automation)* | ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?logo=google-sheets&logoColor=white) ![SQL Logic](https://img.shields.io/badge/-QUERY_Func-4479A1?logo=mysql&logoColor=white) | • **Data Warehouse:** Designed and implemented a **32-tab analytical architecture** integrating leads, payments, attendance, and engagement data.<br>• **Accuracy:** Improved overall data integrity by **~90%** using layered validation and reconciliation logic.<br>• **Analytics:** Automated **Retention Risk and Churn Analysis** using SQL-like QUERY functions for proactive decision-making. |
-| **⏳ Internship Tracker**<br>*(Productivity Analytics)* | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | • **Performance Metrics:** Tracks hours, deliverables, and efficiency indicators in real time.<br>• **Visualization:** Interactive dashboards for structured self-performance evaluation.<br>• **Open Source:** Published publicly as part of a professional Business Analyst portfolio. |
+| **🏋️‍♀️ FitSpirit Dashboard**<br>*(Client Lifecycle Automation)* | ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?logo=google-sheets&logoColor=white) ![SQL Logic](https://img.shields.io/badge/-QUERY_Func-4479A1?logo=mysql&logoColor=white) | • **Data Warehouse:** Engineered a **32-tab analytical architecture** connecting leads, payments, attendance, and engagement into a single source of truth.<br>• **Accuracy:** Increased data reliability by **~90%** through layered validation and consistency checks.<br>• **Analytics:** Built automated **Retention Risk & Churn indicators** using SQL-style QUERY logic for proactive intervention. |
+| **⏳ Internship Tracker**<br>*(Productivity Analytics)* | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | • **Performance Metrics:** Designed a structured system to track effort, output, and efficiency in real time.<br>• **Visualization:** Dashboard-driven self-analysis to identify productivity patterns.<br>• **Open Source:** Released publicly as part of a professional Business Analyst portfolio. |
 
 ### 🧠 Business Intelligence & ETL
 
 | Project | Tech Stack | Key Features & Architecture |
 | :--- | :--- | :--- |
-| **🏢 Corporate BI Suite**<br>*(End-to-End ETL)* | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | • **ETL Workflow:** Executed full extraction, transformation, and loading across HR, Finance, and Sales datasets.<br>• **Optimization:** Improved reporting workflow efficiency by **~15%** through structured automation.<br>• **Statistical Analysis:** Applied Pivot Tables, Lookups, and KPI frameworks for granular financial and operational insights. |
+| **🏢 Corporate BI Suite**<br>*(End-to-End ETL)* | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | • **ETL Workflow:** Designed and executed full data extraction, transformation, and loading across HR, Finance, and Sales domains.<br>• **Optimization:** Reduced reporting friction and improved workflow efficiency by **~15%**.<br>• **Insight Delivery:** Built KPI-driven dashboards focused on management-level decision clarity. |
 
 ---
 
 # 📈 Core Competencies & Interests
-*Turning numbers into narratives and problems into structured solutions.*
+*Turning complexity into clarity.*
 
 | Skill | Details |
 | :--- | :--- |
-| **Data Engineering** | Proficient in **data cleaning, KPI calculation, validation logic, and ETL workflows**. Experienced with `IMPORTRANGE` and automation-driven pipelines. |
-| **Documentation** | Skilled in translating business requirements into structured artifacts: **BRD, SRS, and User Stories**. |
-| **Visualization** | "Dashboard-first" approach—designing intuitive, insight-driven dashboards in **Power BI and Google Sheets**. |
+| **Data Engineering** | Strong in **data cleaning, KPI logic, validation frameworks, and ETL-style automation**. Experienced with `IMPORTRANGE`-driven pipelines. |
+| **Documentation** | Comfortable converting ambiguous business needs into **BRDs, SRS, and User Stories** that engineers and stakeholders align on. |
+| **Visualization** | “Insight over aesthetics” approach — dashboards designed to explain *why*, not just *what*. |
 
 ---
 
